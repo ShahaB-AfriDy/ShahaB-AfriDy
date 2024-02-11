@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm Shahab Afridy</h1>
 
 <p align="center">
-I'm a passionate and dedicated data science enthusiast currently pursuing my Master's in Data Science at NUST (National University of Sciences and Technology), building upon my Bachelor's degree in Software Engineering from KUST (Kohat University of Science and Technology). With a solid foundation in both engineering and data science, I thrive on exploring the intersection of technology and data to solve real-world problems.
+I'm a passionate and dedicated data science enthusiast currently pursuing my Master's in Data Science at NUST (National University of Sciences and Technology), building upon my Bachelor's degree in Software Engineering from KUST  (Kohat University of Science and Technology). With a solid foundation in both engineering and data science, I thrive on exploring the intersection of technology and data to solve real-world problems.
 </p>
 <p align="center"> 
 Obsession with code
